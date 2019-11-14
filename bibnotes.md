@@ -2,4 +2,9 @@
 
 Yes! nu funkar det.
 
+Ska bara skriva lite mer här 
 
+[@choi2014knowledge]
+
+
+Var det inte så vi sa eller? Jo, jag tror det.
