@@ -1,25 +1,25 @@
 # Notes on Nowotny, H., Scott, P., & Gibbons, M. (2003): 'mode 2' revisited: the new production of knowledge
 
-* Aim or purpose of this article (as declared by authors)
+## Aim or purpose of this article (as declared by authors)
 
-** Description of trends and tendencies in science
+### Description of trends and tendencies in science
 
 - The nature of the research process is being transformed,
-*** Three significant trends (or elements)
-**** The 'steering of priorities'
-***** This 'trend' operates at three levels
-****** The supranational level
+### Three significant trends (or elements)
+####  The 'steering of priorities'
+#####  This 'trend' operates at three levels
+######  The supranational level
 - Through for example the European Community Framework programmes which have attempted to shape research priorities and build research capacity to meet identified social and economic needs.
 
-****** The national level
+###### The national level
 - Growing tendency to develop dedicated research programmes which attempt to both focus on short-term political agendas and develop long-term research capacities. Also a tendency for 'Foresight' exercises attempting to predict future research needs to be succeded by more directive approaches
 
-****** The system level
+###### The system level
 - Research Councils have increased adaptation of more pro-active (or top-down) research priorities in place of essentially reactive (or bottom-up) policies
 - Research Councils have much greater emphasis on thematic programmes
 - Universities have a more aggressive management of research priorities
 
-**** The commercialization of research (or 'engaged research')
+##### The commercialization of research (or 'engaged research')
 ***** Two main forms
 ****** Public funding less adequate
 - As the public funding of research has become less adequate, researchers have increasingly turned to alternative sources of funding
