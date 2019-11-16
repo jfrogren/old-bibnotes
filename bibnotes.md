@@ -265,5 +265,12 @@ Two new ideas were introduced
 
 - Karin Knorr-Cetina, Epistemic Cultures: How the Sciences Make Knowledge (Cambridge, Mass.: Harvard University Press, 1999).
 
+# Notes on Mardani, A., Jusoh, A., Nor, K., Khalifah, Z., Zakwan, N., & Valipour, A. (2015): Multiple criteria decision-making techniques and their applications--a review of the literature from 2000 to 2014
+
+klkl
+
+
+
+
 
 
