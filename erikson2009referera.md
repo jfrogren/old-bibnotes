@@ -1,4 +1,4 @@
-# Notes on Erikson, M. G. (. (2009): Referera reflekterande: konsten att referera och citera i beteendevetenskaperna
+# Notes on Erikson, M. G. (2009): Referera reflekterande: konsten att referera och citera i beteendevetenskaperna
 
 [#erikson2009referera]: Martin G. (2009) Erikson (2009): _Referera reflekterande: konsten att referera och citera i beteendevetenskaperna_, Lund: Studentlitteratur.
 
