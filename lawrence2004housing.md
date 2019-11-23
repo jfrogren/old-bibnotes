@@ -124,3 +124,34 @@ Ha, ha kul att han citerar sig själv där.
 >Participatory approaches complement expert knowledge and advice by including
 >the life experience of citizens and social norms. They are one way that enables pro-
 >fessionals and politicians to establish’’ a new social contract with society’’ [30]." [495]
+
+## Academics, professionals and politicians have created conceptual and institutional barriers
+>"In order to promote more eﬀective links between scientists and professional
+>practitioners it is necessary to build bridges between researchers in diﬀerent dis-
+>ciplines, and then between them, decision-makers and lay-people. At the outset it is
+>noteworthy that there appears to be no methodological reasons for this lack of col-
+>laboration. Nonetheless, academics, professionals and politicians have created con-
+>ceptual and institutional barriers that hinder eﬀective partnerships. Some of these
+>barriers will now be brieﬂy summarised:
+
+>1. Conceptual barriers such as inapt analogies, metaphors and models used by aca-
+>demics and professionals who do not address the complexity of the human-
+>made environment but promote rational, utilitarian approaches to interpret the
+>layout, use and management of residential environments.
+
+>2. Institutional barriers stemming from the professionalisation, the segmentation
+>and the bureaucratisation of expertise and knowledge, by which ‘‘experts’’ apply
+>technocratic knowledge in order to apply instrumental rationalism based largely
+>on quantitative proposals at the expense of qualitative dimensions including the
+>tacit know-how of lay-people.
+
+>3. Social barriers produced by social diﬀerentiation and compounded by short-
+>comings in formal education and a lack of information transfer between profes-
+>sionals, politicians and the public. The consequent lack of communication
+>between interest groups means that democratic practices such as the involve-
+>ment of citizens in the design and management of residential environments are
+>not common and, consequently, lay-people are frequently unaware of policy
+>decision-making about their city and their local neighbourhood.
+
+>This article argues that conceptual barriers take precedence over the others, such
+>that institutional and social barriers reﬂect and reinforce conceptual ones." [496]
