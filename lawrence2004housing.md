@@ -1,11 +1,13 @@
 # Notes on Lawrence, R. J. (2004): Housing and health: from interdisciplinary principles to transdisciplinary research and practice
 
+Mitt intryck av artikeln är att den har en väldigt allmänbildande karaktär kring själva områden. Kritiken är möjligtvis att här framställs denna approach som så frånvarande i den akademiska världen, men hur väl stämmer det överens med verkligheten? Finns inte medvetenheten utan att det främst är det att organisationsstrukturerna sätter käppar i hjulet?
+
+
 ## Disciplinarity
 >"In this article, disciplinarity refers to the specialisation of academic disciplines
 >that became strong during the 19th century [4]. [p. 488]"
 
 [4] J. Klein, Crossing Boundaries: Knowledge, Disciplinarities, and Interdisciplinarities, University Press of Virginia, Charlottesville, 1996.
-
 
 ## Multidisciplinary
 >"Multidisciplinary refers to research in which each specialist remains within her/his discipline and contributes using disciplinary concepts and methods." [p. 488]
@@ -47,7 +49,6 @@ Way of Managing Complexity, Birkhäuser, Basel, 2001.
 Transdisciplinarity: Joint Problem Solving Among Science Technology and Society, an Eﬀective
 way of Managing Complexity, Birkhäuser, Basel, 2001.
 
-
 ## Multidisciplinarity, interdisciplinarity and transdisciplinarity are complementary
 >"Multidisciplinarity, interdisciplinarity and transdisciplinarity are complementary
 >rather than being mutually exclusive. It is important to stress this complementarity
@@ -56,8 +57,8 @@ way of Managing Complexity, Birkhäuser, Basel, 2001.
 
 Just detta att "without specialised disciplinary studies there would be no in-depth knowledge 
 and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa. Det är denna:
->[7] R. Lawrence, Human ecology, in: M. Tolba (Ed.)Our Fragile World: Challenges and Opportunities
->for Sustainable Development, vol. 1EOLSS Publishers, Oxford, 2001, pp. 675–693.
+
+[7] R. Lawrence, Human ecology, in: M. Tolba (Ed.)Our Fragile World: Challenges and Opportunities for Sustainable Development, vol. 1EOLSS Publishers, Oxford, 2001, pp. 675–693.
 
 ## Health - where the word derives from
 >"The word health is derived from the old English word ‘‘hal’’ meaning whole,
@@ -84,6 +85,7 @@ and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa
 >unwanted intrusions from insects, rodents and environmental nuisances such as
 >noise that may be harmful for health and well being. Housing contains household
 >activities and possessions." [491]
+
 ## Housing as a noun and a verb
 
 >"Turner made the important distinction between housing
@@ -103,10 +105,11 @@ New York, 1976.
 [13] D. Halpern, Mental Health and the Built Environment: More than Bricks and Mortar, Taylor and
 Francis, London, 1995.
 
-## The resedential context of health
+## The residential context of health
 >"Hartig and Lawrence have used the term ‘‘the residential context of health’’ to refer to all these dimensions that deﬁne the interrelated nature of housing and health [17]." [493]
 
 [17] T. Hartig, R. Lawrence (Eds.), The residential context of health, Journal of Social Issues (special issue) 59 (2) 2003.
+
 ## Citizen participation as a means to define and promote health
 >"In the late 1970s citizen participation was considered for the ﬁrst
 > time in relation to primary health care in the Declaration of Primary Health Care
@@ -135,6 +138,7 @@ Francis, London, 1995.
 
 [28] R. Feldmand, L. Westphal, Participatory design in support of empowerment: The greening of a
 public housing development, Places 12 (1) (1999) 34–37.
+
 [29] R. Marans, D. Stokols (Eds.), Environmental Simulation, Research and Policy Issues, , Plenum
 Press, New York, 1993.
 
@@ -150,6 +154,7 @@ Press, New York, 1993.
 
 [30] M. Gibbons, C. Limoges, H. Nowotny, S. Schwartzman, P. Scott, M. Trow, The New Production
 of Knowledge, Sage, London, 1994.
+
 ## Academics, professionals and politicians have created conceptual and institutional barriers
 >"In order to promote more eﬀective links between scientists and professional
 >practitioners it is necessary to build bridges between researchers in diﬀerent disciplines,
@@ -176,5 +181,28 @@ of Knowledge, Sage, London, 1994.
 
 >This article argues that conceptual barriers take precedence over the others, such
 >that institutional and social barriers reﬂect and reinforce conceptual ones." [496]
+
+## An integrated approach to health and human settlement is needed in academic research
+>"an analysis of the interrelations between multiple components of any human ecosystem is necessary. Systemic interpretations of human illness, health and local environments have a long but chequered history. They can be traced back as least as far as the Hippocratic treatise ''On Airs, Waters, and Places’’ published initially about 2600 years ago [32]. Hippocrates applied an integrated approach that is far removed from much contemporary academic research and professional practice adopted by people who isolate factors from each other and from the contextual conditions in which they occur." [497]
+
+Att hälsa och miljö hänger samman har funnits med länge i mänskligt tänkande åtminstone sen Hippokrates, men i den akademiska världen isoleras i stor utsträckning dessa världar från varandra, menar Lawrence.
+
+[32] Hippocrates, On air, waters, and places, in: The genuine works of Hippocrates. Translated with a commentary by Francis Adams. The Sydenham Society, London, 1849.
+
+## Ecology - history and meaning of the term
+>"The term ‘‘ecology’’ derives from the ancient Greek words ‘‘oikos’’ and ‘‘logos’’and means ‘‘science of the habitat’’. It is generally agreed that this term was used ﬁrst by Ernst Haeckel (1834–1919), a German zoologist, in 1866. The word ecology designates a science that deals with the interrelationships between organisms and their surroundings. Since the late 19th century the term ‘‘ecology’’ has been interpreted in numerous ways. For example, in the natural sciences, botanists and zoologists use the term ‘‘general ecology’’ to refer to the interrelations between animals, plants and their immediate surroundings." [497]
+
+## Human ecology - definition
+>"Human ecology explicitly deals with people-environment relations [33]. It provides a conceptual framework for academics and practitioners from both the natural sciences (e.g. biology, chemistry and geology) and the human sciences (e.g. anthropology, epidemiology, sociology and psychology) to accept divergent disciplinary concepts and methods and develop an integrated approach." [497]
+
+## The ecological perspective's four main sets of interrelated factors 
+>"The ecological perspective considers four main sets of interrelated factors: _the individual_, who has a speciﬁc genetic code with a susceptibility and immunity to illness and disease, as well as lifestyle traits; _the agent or vector_ of illness and disease, // including not only bio-geo-physical components of the environment but also the social and psychological dimensions of human settings; _the physical and social environment_ of the individual which affects the susceptibility of the host, the virulence of bio-physical agents and the exposure, quantity and nature of the contact between host and vector; _the available resources_ used by the individuals and households including housing, nutrition, money, information, and access to health and medical services which ought to be aﬀordable for all groups of the population." [497-498]
+
+Här handlar det alltså om a) _individen_; b) _agenten/vektorn_ som jag tolkar som att sjukdomars förekomst och spridning (just denna faktor är väl den mest svårtolkade); c) _fysiska och sociala miljön_; d) _tillgängliga resurser_.
+
+
+
+
+
 
 
