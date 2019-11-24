@@ -2,7 +2,6 @@
 
 Mitt intryck av artikeln är att den har en väldigt allmänbildande karaktär kring själva områden. Kritiken är möjligtvis att här framställs denna approach som så frånvarande i den akademiska världen, men hur väl stämmer det överens med verkligheten? Finns inte medvetenheten utan att det främst är det att organisationsstrukturerna sätter käppar i hjulet?
 
-
 ## Disciplinarity
 >"In this article, disciplinarity refers to the specialisation of academic disciplines
 >that became strong during the 19th century [4]. [p. 488]"
@@ -63,6 +62,9 @@ and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa
 ## Health - where the word derives from
 >"The word health is derived from the old English word ‘‘hal’’ meaning whole,
 >healed and sound." [490]
+
+## Health - as defined by Roderick Lawrence
+>"Health is deﬁned in this article as a condition or state of human beings resulting from the interrelations between humans and their biological, chemical, physical and social environment. All these components of residential environments should be compatible with their basic needs and their full functional activity including biological reproduction over a long period. Health is the result of both the direct pathological eﬀects of chemicals, some biological agents and radiation, and the inﬂuence of physical, psychological and social dimensions of daily life including housing, transport and other characteristics of metropolitan areas." [490]
 
 ## Environment - historical definitions
 >"Environment derives from the word ‘‘environnement’’ ﬁrst used in the French
@@ -194,6 +196,9 @@ Att hälsa och miljö hänger samman har funnits med länge i mänskligt tänkan
 
 ## Human ecology - definition
 >"Human ecology explicitly deals with people-environment relations [33]. It provides a conceptual framework for academics and practitioners from both the natural sciences (e.g. biology, chemistry and geology) and the human sciences (e.g. anthropology, epidemiology, sociology and psychology) to accept divergent disciplinary concepts and methods and develop an integrated approach." [497]
+
+[33] R. Lawrence, Human ecology, in: M. Tolba (Ed.)Our Fragile World: Challenges and Opportunities
+for Sustainable Development, vol. 1EOLSS Publishers, Oxford, 2000, pp. 675–693.
 
 ## The ecological perspective's four main sets of interrelated factors 
 >"The ecological perspective considers four main sets of interrelated factors: _the individual_, who has a speciﬁc genetic code with a susceptibility and immunity to illness and disease, as well as lifestyle traits; _the agent or vector_ of illness and disease, // including not only bio-geo-physical components of the environment but also the social and psychological dimensions of human settings; _the physical and social environment_ of the individual which affects the susceptibility of the host, the virulence of bio-physical agents and the exposure, quantity and nature of the contact between host and vector; _the available resources_ used by the individuals and households including housing, nutrition, money, information, and access to health and medical services which ought to be aﬀordable for all groups of the population." [497-498]
