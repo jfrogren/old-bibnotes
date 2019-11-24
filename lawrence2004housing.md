@@ -1,17 +1,18 @@
 # Notes on Lawrence, R. J. (2004): Housing and health: from interdisciplinary principles to transdisciplinary research and practice
 
-
-
 ## Disciplinarity
 >"In this article, disciplinarity refers to the specialisation of academic disciplines
 >that became strong during the 19th century [4]. [p. 488]"
+
+[4] J. Klein, Crossing Boundaries: Knowledge, Disciplinarities, and Interdisciplinarities, University Press of Virginia, Charlottesville, 1996.
+
 
 ## Multidisciplinary
 >"Multidisciplinary refers to research in which each specialist remains within her/his discipline and contributes using disciplinary concepts and methods." [p. 488]
 
 ## Interdisciplinary
 >"Interdisciplinary contributions can be interpreted as the bringing together of disciplines which retain their own concepts and methods that are applied to a mutually agreed subject. In these studies one contributor will usually co-ordinate the research process and seek integration. Interdisciplinarity can be considered as the mixing together of disciplines, whereas..." [p. 488]
-
+    
 ## Transdisciplinarity
 >"transdisciplinarity implies a fusion of disciplinary knowledge with the know-how of
 >lay-people that creates a new hybrid which is diﬀerent from any speciﬁc constituent
@@ -28,6 +29,13 @@
 >understanding of the interrelations between health and residential environments is
 >to be improved." [p. 489]
 
+[5] M. Sommerville, D. Rapport (Eds.), Transdisciplinary Recreating Integrated Knowledge, , EOLSS
+Publishers, Oxford, 2000.
+
+[6] J. Thompson Klein, W. Grossenbacher-Mansuy, R. Häberli, A. Bill, R. Scholz, M. Welti (Eds.),
+Transdisciplinarity: Joint Problem Solving Among Science Technology and Society, an Eﬀective
+Way of Managing Complexity, Birkhäuser, Basel, 2001.
+
 >"Transdisciplinary research and practice require a common conceptual framework
 >and analytical methods based on shared terminology, mental images and common
 >goals. Once these have been formulated, then the next requirement is to develop a
@@ -35,12 +43,16 @@
 >and information that can be organised in ways to help understand, interpret and
 >deal with problems [8]." [p. 489]
 
+[8] J. Thompson Klein, W. Grossenbacher-Mansuy, R. Häberli, A. Bill, R. Scholz, M. Welti (Eds.),
+Transdisciplinarity: Joint Problem Solving Among Science Technology and Society, an Eﬀective
+way of Managing Complexity, Birkhäuser, Basel, 2001.
+
 
 ## Multidisciplinarity, interdisciplinarity and transdisciplinarity are complementary
 >"Multidisciplinarity, interdisciplinarity and transdisciplinarity are complementary
 >rather than being mutually exclusive. It is important to stress this complementarity
 >because without specialised disciplinary studies there would be no in-depth knowledge 
->and data [7]."
+>and data [7]." [489]
 
 Just detta att "without specialised disciplinary studies there would be no in-depth knowledge 
 and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa. Det är denna:
@@ -65,14 +77,15 @@ and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa
 >of human settlements but also interpersonal relations and social organisation 
 >which eﬀect both physical and mental health and psychological well being." [491]
 
-## The aim of housing 
+## The aim of housing
+
 >"Housing is meant to address basic human needs for shelter and security by providing 
 >protection against climatic conditions (excessive heat and cold) and
 >unwanted intrusions from insects, rodents and environmental nuisances such as
 >noise that may be harmful for health and well being. Housing contains household
 >activities and possessions." [491]
-
 ## Housing as a noun and a verb
+
 >"Turner made the important distinction between housing
 >as a noun and housing as a verb [12]. According to Turner, housing can be considered 
 >as a product (from an individual housing unit to the housing stock in a neighbourhood 
@@ -80,13 +93,20 @@ and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa
 >process by referring to the provision and maintenance of all kinds of residential
 >buildings either by public authorities or private initiatives. " [491-492]
 
+[12] J. Turner, Housing by People: Towards Autonomy in Building Environment, Pantheon Books,
+New York, 1976.
+
 ## Housing environment viewed as capacity to nurture and sustain social and psychological processes
 >"The housing environment can be considered in terms of its capacity to nurture
 >and sustain social and psychological processes as Halpern has argued [13]." [492]
 
+[13] D. Halpern, Mental Health and the Built Environment: More than Bricks and Mortar, Taylor and
+Francis, London, 1995.
+
 ## The resedential context of health
 >"Hartig and Lawrence have used the term ‘‘the residential context of health’’ to refer to all these dimensions that deﬁne the interrelated nature of housing and health [17]." [493]
 
+[17] T. Hartig, R. Lawrence (Eds.), The residential context of health, Journal of Social Issues (special issue) 59 (2) 2003.
 ## Citizen participation as a means to define and promote health
 >"In the late 1970s citizen participation was considered for the ﬁrst
 > time in relation to primary health care in the Declaration of Primary Health Care
@@ -113,6 +133,11 @@ and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa
 >using aids or tools such as maps, plans, photographs, small- or large-scale simulation 
 >models and computed aided design kits [29]." [495]
 
+[28] R. Feldmand, L. Westphal, Participatory design in support of empowerment: The greening of a
+public housing development, Places 12 (1) (1999) 34–37.
+[29] R. Marans, D. Stokols (Eds.), Environmental Simulation, Research and Policy Issues, , Plenum
+Press, New York, 1993.
+
 ## Complex issues should not be interpreted in democratic societies by one set of criteria or values
 >"The main contribution of participatory approaches is that they facilitate the formulation 
 >and evaluation of a range of options from diﬀerent viewpoints. These
@@ -123,6 +148,8 @@ and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa
 >the life experience of citizens and social norms. They are one way that enables professionals 
 >and politicians to establish’’ a new social contract with society’’ [30]." [495]
 
+[30] M. Gibbons, C. Limoges, H. Nowotny, S. Schwartzman, P. Scott, M. Trow, The New Production
+of Knowledge, Sage, London, 1994.
 ## Academics, professionals and politicians have created conceptual and institutional barriers
 >"In order to promote more eﬀective links between scientists and professional
 >practitioners it is necessary to build bridges between researchers in diﬀerent disciplines,
@@ -149,3 +176,5 @@ and data" är viktigt att komma ihåg. Och den källan kan vara viktig att läsa
 
 >This article argues that conceptual barriers take precedence over the others, such
 >that institutional and social barriers reﬂect and reinforce conceptual ones." [496]
+
+
