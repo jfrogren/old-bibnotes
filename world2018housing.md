@@ -1,5 +1,10 @@
 # Notes on WHO & others, (2018): WHO housing and health guidelines
 
+## Mina tankar
+
+Lite besviken är jag efter att ha läst rapporten eftersom de 'guidelines' som utlovas dels inte har så starkt vetenskapligt stöd, åtminstone konstateras att kopplingen mellan tillgänglighet och hälsa är 'måttlig' och i flera fall är sambandet svagt, och för nedsatt kognitiv förmåga går det inte att styrka eftersom endast två studier återfanns med denna grupp. Dessutom undrar jag vad det egentligen rör sig om för guidelines de får fram. I mitt tycke är de väldigt fluffigt formulerade och säger inte mycket. Jag tycker att det vore en bättre appoach att försöka förstå komplexiteten i denna fråga och försöka erkänna att det utgör ett 'wicked problem' såsom Rod Lawrence gör. Istället vill man få det till att bara hälsovetare medvetandegör resten av populationen och adderar sitt folkhälsoargument i diverse forum och detta styrks på olika sätt så är det lösningen eller åtminstone början till lösningen. Människor är ju inte alltid så rationella och inte alltid så godhjärtade heller för den delen. Bör inte det tas med i beaktning? Om människor blir varse vikten av en god hälsa lever de då hälsosammare? I viss mån kanske men det sambandet är väl lngt ifrån självklart, eller? Men som jag också skriver här nedanför baseras housing accessibility- delen av denna guidelines till 20 eller 25 procent på studier från oss på CASE vilket är imponerande, men på samma gång säger en del om dessa begränsade spännvid också. För det finns ju texter i snarliggande fält som man kanske inte når genom en systematic review men som ändå är relevanta och just problematiserar detta område på ett mer sanningsenligt sätt, snarare än vad jag uppfattar här inte riktigt erkänner de föreliggande intressekonflikterna och de olika värdena som ligger til grund för att detta är ett mycket komplext problem.
+
+
 ## Executive summary 
 
 ### p. xv
@@ -148,6 +153,8 @@ En av referenserna här är från Lancet, alltså är detta en bra referens att 
 
 > (p. 67) In order to establish clear guidance on maximizing the health gains associated with accessible housing, a systematic review of the evidence on the effects of home improvements for people with functional impairment was commissioned.
 
+Den systematiska reviewen finns också som en egen rapport och jag har laddat ned den och har den som pdf. Den är cirka 20 sidor lång (om man tar bort bilagorna) och heter maclachlan2018. Titeln är 'Report of the systematic review on potential benefits of accessible home environments for people with functional impairments. Intressant här att det här fokuseras just på 'functional impairments' och att t.ex. ageing inte nämns, eller att en slags life-span approach antas. Denna review ledde fram till att 20 artiklar granskades närmare, varav 4 eller 5 från oss på CASE! Rätt imponerande ändå. Därför är det inte heller så konstigt att det perspektiv och synsätt som finns här också återfinns i rapporten. 
+
 Den forskningsfråga som formulerades för den systematiska intervjun var den följande:
 
 > (p. 67) Do residents with functional or cognitive impairments living in accessible/ usable home environments have better health/social outcomes than residents with functional or cognitive impairments living in conventional or unmodified home environments?
@@ -219,7 +226,6 @@ Det är ju faktiskt det som vi har försökt att initiera genom våra forsknings
 > (p. 111) ...the socioeconomic circumstances of a country need to be taken into account. While there is growing evidence that the recommended interventions are cost-effective and cost-beneficial (see section 9.3), retrofitting existing housing or building a new housing stock adhering to the guidelines at large scale demands significant financial investment from governments, including subsidies to support communities and individual home owners in implementing new housing standards. Accordingly, the national implementation strategy needs to carefully assess the country’s needs and resources and accordingly prioritize those interventions that are the most feasible, appropriate and highly valued in the specific country context. 
 
 Här nämns ju socioekonomi som en viktig faktor att ta hänsyn till.
-
 
 > (p. 111) the national implementation strategy needs to carefully assess the country’s needs and resources and accordingly prioritize those interventions that are the most feasible, appropriate and highly valued in the specific country context.
 
