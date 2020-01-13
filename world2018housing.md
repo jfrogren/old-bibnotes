@@ -339,6 +339,10 @@ Journal of Occupational Therapy. 2000;63(5):200−4.
 disability and housing accessibility: implications for sub-national areas in the United
 States. Housing Studies. 2012;27:2:252−66.
 
+380. Petersson I, Lilja M, Hammel J, Kottorp A. Impact of home modification services on
+ability in everyday life for people ageing with disabilities. Journal of Rehabilitation
+Medicine. 2008;40(4):253−60.
+
 393. Heywood F. The health outcomes of housing adaptations. Disability & Society.
 2004;19(2):129−43.
 
