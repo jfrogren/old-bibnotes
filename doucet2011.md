@@ -57,3 +57,10 @@ Retrieved June 3, 2010, from http://home.snafu.de/jonasw
 
 Att "Mode 2" påvisar likheten med design och därmed bereder väg för designers att bidra till "Mode 2" kunskapsproduktion
 
+
+
+...
+
+## Chapter 3: Implementing Transdisciplinarity: Architecture and Urban Planning at Work (Carole Després, Geneviève Vachon, and Andrée Fortin)
+
+> The Latin prefix “trans” denotes transgressing the boundaries defined by traditional disciplinary modes of enquiry. (p. 35)
