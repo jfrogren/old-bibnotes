@@ -2,7 +2,7 @@
 
 ## Mina tankar
 
-Lite besviken är jag efter att ha läst rapporten eftersom de 'guidelines' som utlovas dels inte har så starkt vetenskapligt stöd, åtminstone konstateras att kopplingen mellan tillgänglighet och hälsa är 'måttlig' och i flera fall är sambandet svagt, och för nedsatt kognitiv förmåga går det inte att styrka eftersom endast två studier återfanns med denna grupp. Dessutom undrar jag vad det egentligen rör sig om för guidelines de får fram. I mitt tycke är de väldigt fluffigt formulerade och säger inte mycket. Jag tycker att det vore en bättre appoach att försöka förstå komplexiteten i denna fråga och försöka erkänna att det utgör ett 'wicked problem' såsom Rod Lawrence gör. Istället vill man få det till att bara hälsovetare medvetandegör resten av populationen och adderar sitt folkhälsoargument i diverse forum och detta styrks på olika sätt så är det lösningen eller åtminstone början till lösningen. Människor är ju inte alltid så rationella och inte alltid så godhjärtade heller för den delen. Bör inte det tas med i beaktning? Om människor blir varse vikten av en god hälsa lever de då hälsosammare? I viss mån kanske men det sambandet är väl lngt ifrån självklart, eller? Men som jag också skriver här nedanför baseras housing accessibility- delen av denna guidelines till 20 eller 25 procent på studier från oss på CASE vilket är imponerande, men på samma gång säger en del om dessa begränsade spännvid också. För det finns ju texter i snarliggande fält som man kanske inte når genom en systematic review men som ändå är relevanta och just problematiserar detta område på ett mer sanningsenligt sätt, snarare än vad jag uppfattar här inte riktigt erkänner de föreliggande intressekonflikterna och de olika värdena som ligger til grund för att detta är ett mycket komplext problem.
+Lite besviken är jag efter att ha läst rapporten eftersom de 'guidelines' som utlovas dels inte har så starkt vetenskapligt stöd, åtminstone konstateras att kopplingen mellan tillgänglighet och hälsa är 'måttlig' och i flera fall är sambandet svagt, och för nedsatt kognitiv förmåga går det inte att styrka eftersom endast två studier återfanns med denna grupp. Dessutom undrar jag vad det egentligen rör sig om för guidelines de får fram. I mitt tycke är de väldigt fluffigt formulerade och säger inte mycket. Jag tycker att det vore en bättre appoach att försöka förstå komplexiteten i denna fråga och försöka erkänna att det utgör ett 'wicked problem' såsom Rod Lawrence gör. Istället vill man få det till att bara hälsovetare medvetandegör resten av populationen och adderar sitt folkhälsoargument i diverse forum och detta styrks på olika sätt så är det lösningen eller åtminstone början till lösningen. Människor är ju inte alltid så rationella och inte alltid så godhjärtade heller för den delen. Bör inte det tas med i beaktning? Om människor blir varse vikten av en god hälsa lever de då hälsosammare? I viss mån kanske men det sambandet är väl långt ifrån självklart, eller? Men som jag också skriver här nedanför baseras housing accessibility- delen av denna guidelines till 20 eller 25 procent på studier från oss på CASE vilket är imponerande, men på samma gång säger en del om dess begränsade spännvid likaså. För det finns ju texter i snarliggande fält som man kanske inte når genom en systematic review men som ändå är relevanta och just problematiserar detta område på ett mindre enögt och mer sanningsenligt sätt, snarare än vad jag uppfattar här, där man inte riktigt erkänner de föreliggande intressekonflikterna och de olika värdena som ligger till grund för att detta är ett mycket komplext problem.
 
 
 ## Executive summary 
@@ -15,7 +15,7 @@ Begränsad tillgänglighet ökar risken för skada, stress och isolering för fu
 
 > Poor housing conditions are one of the mechanisms through which social and environmental inequality translates into health inequality, which further affects quality of life and well-being.
 
-På ett mer övergripande plan kan man säga att poor housing conditions utgör en mekanism genom vilken sociala och miljöfaktoreriell ojämlikhet leder till hälsorelaterad ojämlikhet vilket ytterligare påverkar livskvalitet och välmående.
+På ett mer övergripande plan kan man säga att poor housing conditions utgör en mekanism genom vilken social och miljögrundad ojämlikhet leder till hälsorelaterad ojämlikhet vilket ytterligare påverkar livskvalitet och välmående.
 
 ### p. xvi
 
@@ -37,21 +37,21 @@ Syftet med dessa guidelines är alltså att informera policy-makers som är ansv
 
 > The guidelines are also intended to be relevant in the daily activities of implementing actors such as government agencies, architects, builders, housing providers, developers, engineers, urban planners, industry regulators, financial institutions, as well as social services, community groups, and public health professionals. These stakeholders are directly involved in the construction, maintenance and demolition of housing in ways that influence human health and safety.
 
-Men dessa guidelines sägs också vara riktade till 'implementing actors' alltså de som bedriver det dagliga arbetet med byggande och ombyggnation av bostäder - det handlar då om att ge dessa aktörer incitament för att ta i högre utsträckning anta ett folkhälsoperspektiv på bostadsbyggande. - Men frågan är i vilken utsträckning ett sådant perspektiv står sig i förhållande till andra värden som inte är lika fina?
+Men dessa guidelines sägs också vara riktade till 'implementing actors' alltså de som bedriver det dagliga arbetet med byggande och ombyggnation av bostäder - det handlar då om att ge dessa aktörer incitament för att ta i högre utsträckning anta ett folkhälsoperspektiv på bostadsbyggande. - Men frågan är i vilken utsträckning ett sådant perspektiv står sig i förhållande till andra värden som inte är lika "fina". Det är klart att den information behövs, inget fel i det, men problemet är att det också finns andra värden att beakta som kräver kyhördhet. Vilken lyhördhet finns för dessa och hur mycket avspeglar framtagandet av dessa "guidelines" en von-oben-attityd hos WHO i synen på kunskap och hur man uppnår förändring? Noterbart är ju att det WHO här ämnar ta fram inte bara är att sammanfatta och tillgängliggöra vetenskapliga fakta utan också lansera metoder och verktyg för att effektivt "implementera" dessa fakta. 
 
 > Based on the current and projected national prevalence of populations with functional impairments and taking into account trends of ageing, an adequate proportion of the housing stock should be accessible to people with functional impairments.
 
-Här står det att en "adequate proportion of the housing stock should be accessible to people with functional impairments" - men den stora och avgörande frågan är ju vad som är en 'adequate proportion'! Jag förstår att WHO inte kn ge några konkreta siffror, men det är ju egentligen svar på den frågan som är det centrala - att t.ex. på ett nationellt plan sätta ner foten och säga att x antal procent av ett bostadsbestånd är adekvat. Det är ju den sortens kvantitativa mått som verkar efterfrågas.
+Här står det att en "adequate proportion of the housing stock should be accessible to people with functional impairments" - men den stora och avgörande frågan är ju vad som är en 'adequate proportion'! Jag förstår att WHO inte kn ge några konkreta siffror, men det är ju egentligen svar på den frågan som är det centrala - att t.ex. på ett nationellt plan sätta ner foten och säga att x antal procent av ett bostadsbestånd är adekvat. Det är ju den sortens kvantitativa mått som verkar efterfrågas. OBS! Författarna återkommer till detta senare i rapporten.
 
 > While the guidelines provide global recommendations, their implementation and prioritization will vary depending on local contexts and will require national, regional and local adaptation. As a result, implementing the guidelines entails political will and coordination between different levels of governance: local, state and central governments; government departments; the health, private, nongovernmental and community sectors; and support and input from international development and finance organizations.
 
-Dessa guidelines utgör alltså 'rekommendationer', men i vilken utsträckning de implementeras och prioriteras beror på 'kontext' - det kräver politisk vilja och koordinering mellan olika nivåer av 'governance'.
+Dessa guidelines utgör alltså 'rekommendationer', men i vilken utsträckning de implementeras och prioriteras beror på 'kontext' - det kräver politisk vilja och koordinering mellan olika nivåer av 'governance'. Dessa guidelines ska alltså implementeras och det avgörande för dess framgång enligt författarnas synsätt är _political will_ och aktörernas förmåga att koordinera sig. Men avspeglar inte detta väldigt mycket ett von oben-perspektiv? Vilken lyhördhet finns egentligen för aktörer på lägre nivå än institutionen WHO? 
 
 ### p. xvii
 
 > WHO is preparing web-based guidance and tools that build on the evidence used to inform these guidelines and will work with Member States to support the implementation process through its regional and country offices.
 
-I tillägg till dessa övergripande guidelines skapar WHO alltså "web-based guidance and tools that build on the evidence used to inform these guidelines". Som jag tolkar det är det dessa som är per praktiskt inriktade och som är tänkta att kunna användas på ett mer direkt sätt.
+I tillägg till dessa övergripande guidelines skapar WHO alltså "web-based guidance and tools that build on the evidence used to inform these guidelines". Som jag tolkar det är det dessa som är per praktiskt inriktade och som är tänkta att kunna användas på ett mer direkt sätt. Återigen... det är väldigt mycket en logik som utgår från att vi här uppe vet bäst vad problemet är och våra guidelines är vetenskapligt grundade och nu ska vi tala om för er och instruera er hur dessa implementeras.
 
 ## Introduction 
 
@@ -63,7 +63,7 @@ I tillägg till dessa övergripande guidelines skapar WHO alltså "web-based gui
 
 > In high-income countries, around 70% of people’s time is spent inside their home (2) 
 
-Detta kan vara en siffra värd att lägga på minnet. Alltså 70% av människors tid tillbringas i det egna hemmet.
+Detta kan vara en siffra värd att lägga på minnet. Alltså 70% av människors tid tillbringas i det egna hemmet. Dock är siffran från en rapport/artikel som vad jag förstår endast grundar sig på data i Nya Zeeland så hur relevant är den globalt? 
 
 > In (p. 3) some places, including where unemployment levels are higher, and where more people are employed in home-based industries, this percentage is even higher (3). Children, the elderly, and those with a disability or chronic illness are likely to spend most of their time at home, and are therefore more exposed to health risks associated with housing (2).
 
@@ -77,21 +77,21 @@ Detta kan vara en siffra värd att lägga på minnet. Alltså 70% av människors
 
 ### p. 6
 
-> The impact of housing on health and the prevalence of poor housing conditions around the world, as presented in section 1.1, justify the need for globally acceptable and practical guidelines that will ensure healthy housing and human safety. The underlying principle of such guidelines is for housing to give adequate protection from all potential hazards prevailing in the local environment. This principle should apply to both the existing housing stock and newly constructed dwellings.
+> The impact of housing on health and the prevalence of poor housing conditions around the world [...] justify the need for globally acceptable and practical guidelines that will ensure healthy housing and human safety. The underlying principle of such guidelines is for housing to give adequate protection from all potential hazards prevailing in the local environment. This principle should apply to both the existing housing stock and newly constructed dwellings.
 
 Här anges alltså drivkraften till att ta fram guidelines inom detta område alltså handlar om att ta fram "practical guidelines that will ensure healthy housing and human safety". Men frågan är i vilken utsträckning guidelines av detta slag kan "ensure healthy housing and human safety" när det i praktiken är så att det är många andra värden som står på spel och som är avgörande för varför bostäder ser ut som de gör. Är inte denna approach lite väl naiv? Vore det inte bättre att utifrån ett WHO-perspektiv beskriva detta som ett "wicked problem" och i större utsträckning erkänna komplexiteten i frågan, såsom Roderick Lawrence gör.
 
 > Although a number of housing and health regulatory frameworks and guidelines exist, they are not comprehensively coordinated to address all aspects of housing, human health and safety. For instance, WHO has guidelines for indoor air quality or water and sanitation but there is a lack of comprehensive, international housing and health guidelines highlighting that these can be a fundamental way of improving population health (1).
 
-Tron är här alltså att sättet att angripa detta problem är att ta fram tillräckligt "comprehensively coordinated" housing and health regulatory frameworks and guidelines. Men frågan är om det angreppssättet på detta problem är konstruktivt och adekvat när ju problemet om housing och health utgör, som ju mycket indikerar ett wicked problem. 
+Tron är här alltså att sättet att angripa detta problem är att ta fram tillräckligt "comprehensively coordinated" housing and health regulatory frameworks and guidelines. Men frågan är om det angreppssättet på detta problem är konstruktivt och adekvat när ju problemet om housing och health utgör, som ju mycket indikerar ett s.k. _wicked problem_. 
 
 > The improvements recommended by these guidelines relate to a large array of housing aspects, including vital infrastructure, the physical dwelling, the use of the dwelling, and the location of the dwelling. They must be viewed alongside each other so that policy-makers can make the most of co-benefits and synergies, while avoiding trade-offs (24). Large benefits in cost–effectiveness would arise from addressing the health risks associated with housing simultaneously and this approach is in line with WHO’s intersectoral work to create health-promoting environments (25–28). 
 
-Här förordas alltså ett holistiskt perspektiv, ett beaktande av alla dessa aspekter.
+Här förordas alltså ett holistiskt perspektiv, ett beaktande av alla dessa aspekter. Men ligger det inte i linje med detta att lyssna in fler perspektiv än forskare? Det är ju inte inte bara forskare och WHO:s policy-makers verklighet som är den enda sanna och rätta.
 
 > As sectoral guidelines, they represent a proactive step forward, highlighting the need to address the health risks associated with housing through a systems approach
 
-Det som sägs användas här är en "systems approach", men vad menas egentligen med det?
+Det som sägs användas här är en "systems approach", men vad menas egentligen med det? Någon förklaring ges inte.
 
 ### p. 7
 
@@ -107,17 +107,17 @@ Och här för att de ligger i linje med FN:s deklaration om mänskliga rättighe
 
 > The HHGL do not address all possible risk factors related to housing but focus on priority areas that have not yet been addressed by existing WHO guidelines and where robust evidence is available. These were identified by the Guideline Development Group (GDG) established for this work (see Chapter 2). The priority areas addressed by the HHGL are as follows: inadequate living space (crowding) (Chapter 3), low indoor temperatures (Chapter 4), high indoor temperatures (Chapter 5), injury hazards in the home (Chapter 6), accessibility of housing for people with functional impairments (Chapter 7).
 
-Detta är alltså det scope som dessa guidelines omfattar. 
+Detta är alltså det scope som dessa guidelines omfattar. Jag förstår hur de resonerar och tanken är god, liksom strävan, men frågan är hur konstruktivt det är med denna 'implementeringslogik' som hela tiden är underförstådd. 
 
 ### p. 11
 
 > Interventions that create healthy homes can help to break this cycle by improving health and broader social and economic outcomes, yielding important benefits for decades into the future. These housing-related interventions need to be complemented by policy interventions relating to education, employment, transport, child care, health systems, taxation, wages, benefit levels and job security. Each of these factors can affect incomes and thus affect people’s ability to pay for housing that keeps them healthy (27). 
 
-Det är så här det större mer övergripande problemet kopplat till hem och hälså målas upp i rapporten. Interventioner grundade på dessa guidelines måste alltså kompletteras med andra policy-interventioner inom en rad andra områden för att lösa problemet. Så som det beskrivs här handlar det alltså om att ta fram och genomdriva policies på olika nivåer. Håller jag med om den problembeskrivningen?
+Det är så här det större mer övergripande problemet kopplat till hem och hälsa målas upp i rapporten. Interventioner grundade på dessa guidelines måste alltså kompletteras med interventioner baserade på en rad andra områden för att lösa problemet. Så som det beskrivs här handlar det alltså om att ta fram och genomdriva policies på olika nivåer. Håller jag med om den problembeskrivningen? I vilken utsträckning ska den här typen av policies och interventioner vara beordrad uppifrån och i vilken utsträckning bör den bottna i en lyhördhet för de viljor och de värden som finns hos aktörer på en "lägre" nivå, närmare den praktiska verkligheten? Jag tror att det är här som skon klämmer. 
 
 > Providing affordable housing can help people to afford housing that fits their needs while improving their health (67, 68). Affordable housing, such as public housing, can be promoted through funding a supply of affordable dwellings, or through providing subsidies, such as housing vouchers or tax mechanisms (e.g. low-income housing tax credits) (68, 69). 
 
-Här pratas det äntligen specifikt om 'affordability' som jag ser som den mest centrala faktorn i detta problem och hör förordas vad jag tolkar som en form av statligt (och kommunalt?) finansierad public housing och olika form av bidrags- eller skattelösningar som gör att bostäder kan subventioneras i viss mån och på så sätt erbjuda de med lägst inkomst en hälsosam bostad. Det är här det blir politik, om det inte kan sägas ha varit politik hela vägen egentligen.
+Här pratas det äntligen specifikt om 'affordability' som jag ser som den mest centrala faktorn i detta problem och här förordas vad jag tolkar som en form av statligt (och kommunalt?) finansierad public housing och olika form av bidrags- eller skattelösningar som gör att bostäder kan subventioneras i viss mån och på så sätt erbjuda de med lägst inkomst en hälsosam bostad. Det är här det blir politik, om det inte kan sägas ha varit politik hela vägen egentligen. Samtidigt får de det att framstå som så rationellt och okomplicerat, men sanningen är ju att detta bara är en verklighetsbeskrivning av väldigt många. Den eller de lösningar som här föreslås behöver ju inte vara den eller de enda och därför är det ju en rad andra faktorer som komplicerar frågan ytterligare. Bör inte författarna vara lite mer lyhörda och lite mindre tvärsäkra?
 
 ## Guideline development process
 
@@ -143,7 +143,7 @@ Här definieras likt Iwarsson och Ståhl och den ekologiska modellen, tillgängl
 
 > (p. 66) Life span housing (also known as life cycle housing, lifetime homes or adaptable housing) can accommodate changes in human functioning over a person’s life span, enabling the occupants to remain in their homes as long as possible. Universal design (or universal housing) is an approach to the design, construction and adaptation of housing to meet the needs of all occupants regardless of their age, functioning or social situation (373).
 
-_'Life span housing'_ är ett för mig nytt begrepp mendet verkar ju vara relevant och i linje med Universal Design samt de tankar om flexibilitet i boendet som framkom i forskningscirklarna.
+_'Life span housing'_ är ett för mig nytt begrepp men det verkar ju vara relevant och i linje med Universal Design samt de tankar om flexibilitet i boendet som framkom i forskningscirklarna.
 
 > (p. 66) Non-accessible home environments expose people with functional impairments (p. 67) to risk of falls and injuries, restricts social participation, negatively affects quality of life, and increases the burden on caregivers and external social services (376, 377).
 
@@ -333,7 +333,7 @@ Organization; 2001.
 373. Saville-Smith K, Saville J. Getting accessible housing: practical approaches to
 encouraging industry take-up and meeting need. Report prepared for the New Zealand
 Ministry of Business, Innovation and Employment. Wellington: Centre for Research,
-Evaluation and Social Assessment; 2012.
+    Evaluation and Social Assessment; 2012.
 
 376. Close J, Ellis M, Hooper R, Glucksman E, Jackson S, Swift C. Prevention of falls in the
 elderly trial (PROFET): a randomised controlled trial. Lancet. 1999;353(9147):93−7.
