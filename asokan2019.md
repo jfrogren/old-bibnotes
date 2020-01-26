@@ -1,4 +1,4 @@
-# Notes on Asokan, R. (2019): A new look at ritwik ghatak’s bengal
+# Notes on Asokan, R. (2019): A new look at Ritwik Ghatak’s Bengal
 
 > "The Partition of Bengal looms large over the cinema of Ritwik Ghatak. In eight grave, ravishing films, made in an intermittent career that spanned the first three decades of Indian independence, he returned time and again to the calamitous event, which had deeply scarred him."
 
