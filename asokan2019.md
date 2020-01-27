@@ -1,12 +1,19 @@
 # Notes on Asokan, R. (2019): A new look at Ritwik Ghatak’s Bengal
 
+Så oerhört välformulerad skribent denna Asokan
+
+# The Partition of Bengal (and the feelings it brings) - a theme in his movies
 > "The Partition of Bengal looms large over the cinema of Ritwik Ghatak. In eight grave, ravishing films, made in an intermittent career that spanned the first three decades of Indian independence, he returned time and again to the calamitous event, which had deeply scarred him."
 
+# The new nation is presented as fractured and unstable
 > "In all his films, and particularly the Partition Trilogy, the new nation is presented as something fractured, unstable, permeated with violence, and doomed from the outset. The contrast with Ray—see his glowing Apu Trilogy—could not be starker."
 
+# Ghatak is 
 > "Ghatak’s pessimism is already evident in his third film, The Runaway (1959). It is the story of a child who flees his drearyvillage and tyrannical schoolmaster father to wander through Calcutta."
 
 > "Ghatak’s most comprehensive statement about independent India is to be found in the great Partition Trilogy, shot between 1960 and 1962. In these films, he uses the vehicle of a marginal figure, the refugee, to tackle the social ills eating at the heart of Indian society. The Cloud-Capped Star (1960) is a fervid, Dostoyevskian tale of a young woman who allows herself to be exploited by her conservative family. E-Flat (1961) is a parable about the collapse of political idealism. Subarnarekha (1962), perhaps Ghatak’s best-known film, directly confronts caste."
+
+> "The films are loose allegories of Partition. Each is structured around a romantic separation, with Ghatak suggesting a parallel between the fierce yearning that his young leads feel for each other and a greater desire, unhoused in any single character, for a unified Bengal. In crucial moments the metaphor is made almost explicit. For instance, early in E-Flat the two main characters look across the tributary of the Padma which separates India and what was then East Pakistan. “What do you know about what one feels when one is deprived of one’s homeland?” Bhrighu, the child of refugees, asks Anasuya, whose mother, we learn later, was killed in Partition-related riots. “I know,” she replies. “I know.”"
 
 > "Ghatak found realism woefully inadequate for depicting the brutality of Indian society. Instead, he fashioned a special kind of melodrama to convey how Hinduism deformed the lives of men and (particularly) women, constraining them in fixed social roles, circumscribing their aspirations. In all his films, he works with familiar, even cliché Indian types—spoiled son, vicious mother-in-law, long-suffering daughter, and so forth—only to unsettle them, subjecting his characters to a series of moral and intellectual challenges."
 
