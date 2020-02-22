@@ -2,6 +2,9 @@
 
 Så oerhört välformulerad skribent denna Asokan
 
+Här finns fler av hans artiklar och essäer:
+<https://www.ratikasokan.com/essays-and-reviews>
+
 # The Partition of Bengal (and the feelings it brings) - a theme in his movies
 > "The Partition of Bengal looms large over the cinema of Ritwik Ghatak. In eight grave, ravishing films, made in an intermittent career that spanned the first three decades of Indian independence, he returned time and again to the calamitous event, which had deeply scarred him."
 
