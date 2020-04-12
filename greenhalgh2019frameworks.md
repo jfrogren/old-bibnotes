@@ -6,11 +6,15 @@ email: joakim.frogren@med.lu.se
 date: 2020-04-01
 ...
 
+
 Här tar de i bakgrunden liknar de två argumenten som framförs av Wolker et al. [-@walker2017], nämligen: 1) Human rights ("reducing the known power imbalances between researchers and patients is a moral duty" [p. 2]) som förf. hävdar vanligtvis beskrivs som _normative_ eller _emancipatory_; 2) Improve the efficiency and value of research, som förf. menar vanligtvis benämns _consequentialist_ eller _efficiency-oriented_. Här nämns inte bara att själva tjänsterna och produkterna blir bättre, utan att processerna blir mer effektiv, t.ex. rekryteringen.
 
 Min reflektion är att här beskrivs det tydligare som att det är själva forskningen som ska vara _efficiency-oriented_, medan jag tolkar det som att Walker et al. [-@walker2017] tydligare pratar om _services_ eller _products_.
 
-Därutöver tar de upp ett tredje argument som knyts till Mode 2 science och vadsom anses vara _political_ och _practical_.
+Därutöver tar de upp ett tredje argument som knyts till Mode 2 science och vad som anses vara _political_ och _practical_.
+
+(I diskussionen av Walker påtalades att Walker också omnämner tre mycket liknande aspekter)
+
 
 Mot bakgrund av dessa argument så har en rad "structured framweorks, tools, guidelines and checklists" tagits fram i syfte att förbättra de egna processerna eller kritisera eller bedöma andras processer.
 
