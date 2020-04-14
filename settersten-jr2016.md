@@ -6,9 +6,9 @@ email: joakim.frogren@med.lu.se
 date: 2020-04-12 
 ...
 
-Förf. gör en uppdelning i två olka *major strands of inquiry*. Den första som "relates to age as property of individuals and groups" [9] och den andra som "relates to age as a property of social organization and dynamics" [9].
+Detta utgör alltså kapitel 2 i *Handbook of Theories of Aging*.
 
-You are also expected to read the following sections in order to orientate yourself in various theoretical perspectives. This assignment is an opportunity to get an overview of theories of ageing, especially theories that are not in your field.
+Förf. gör en uppdelning i två olka *major strands of inquiry*. Den första som "relates to age as property of individuals and groups" [9] och den andra som "relates to age as a property of social organization and dynamics" [9].
 
 
 ## Age as a property of individuals and groups
@@ -19,7 +19,7 @@ Svårt hitta studie som inte klassificerar på något sätt i olika ålderskateg
 
 Stycket sammanfattas bra i denna mening:
 
-> Age *itself* is not the cause of an outcome. Instead, it is whatever age presumably indexes that matters. For example, chronological age might be a proxy for individuals' emotional maturity (psychological age), roles and responsibilities (social age or legal age),, position in their potential life span (biological age), or ability to function in daily life and adapt to their environments (functional age). [10]
+> Age *itself* is not the cause of an outcome. Instead, it is whatever age presumably indexes that matters. For example, chronological age might be a proxy for individuals' emotional maturity (psychological age), roles and responsibilities (social age or legal age), position in their potential life span (biological age), or ability to function in daily life and adapt to their environments (functional age). [10]
 
 Här nämns vidare att det är enkelt att ta till ålder som en variabel eftersom den är universell och lätt att objektivt mäta, men de betonar samtidigt att det som forskare är viktigt att bli klar över inte bara _att_ ålder är en faktor utan också ställa sig frågan _varför_ och _hur_ ålder är meningsfullt att ta med i förklarandet av ett visst fenomen.
 
@@ -53,6 +53,8 @@ Här handlar det om att åldrandet handlar om _absolut_ tid, dvs. den faktiska t
 
 
 
+
+You are also expected to read the following sections in order to orientate yourself in various theoretical perspectives. This assignment is an opportunity to get an overview of theories of ageing, especially theories that are not in your field.
 
 **** Advances in biological theories of aging, page 107-111.
 
