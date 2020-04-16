@@ -8,7 +8,7 @@ date: 2020-04-12
 
 Detta utgör alltså kapitel 2 i *Handbook of Theories of Aging*.
 
-Förf. gör en uppdelning i två olka *major strands of inquiry*. Den första som "relates to age as property of individuals and groups" [9] och den andra som "relates to age as a property of social organization and dynamics" [9].
+Förf. gör en uppdelning i två olka *major strands of inquiry*. Den första som "relates to age as property of individuals and groups" [9] och den andra som "relates to age as a property of social organization and dynamics" [9]. (Måste erkänna att åtminstone jag uppfattar denna åtskillnad som i praktiken rätt svår att göra.)
 
 
 ## Age as a property of individuals and groups
@@ -79,7 +79,7 @@ Samma argument (dynamiken i åldrandet) ligger också, menar förf. till grund f
 
 ### Ageism and Age Stereotypes
 
-Ageism and age stereotypes = ""common images or perceptions of people of different ages, and their physical, psychological, and social characteristics. Through these images and perceptions, age enters into and shapes everyday social interaction, affecting the expectations and evaluations of the individuals involved in those exchanges." [14]
+Ageism and age stereotypes = "common images or perceptions of people of different ages, and their physical, psychological, and social characteristics. Through these images and perceptions, age enters into and shapes everyday social interaction, affecting the expectations and evaluations of the individuals involved in those exchanges." [14]
 
 Stereotype embodiment theory (SET) - states that "individuals  internalize age stereotypes throughout life, and that stereotypes can exist outside of an individual's awareness, being reinforced whenever an individual's lived experience matches the stereotype and manifest psychologically, behaviorally, and psychologcally" [14] - Jfr med "sociala representationer" - hur matchar de med varandra?
 
@@ -124,21 +124,4 @@ Här nämns också kultur som en dimension. Inom olika kulturer kan synen på å
 
 ## Conclusion
 
-Här betonas vikten av att grunda sitt resonerande om ålderskillnader i en välformulerad teori "to identify which age-related processes bring about which age-related differences" [19].
-
-
-
-You are also expected to read the following sections in order to orientate yourself in various theoretical perspectives. This assignment is an opportunity to get an overview of theories of ageing, especially theories that are not in your field.
-
-**** Advances in biological theories of aging, page 107-111.
-
-
-
-
-**** Advances in psychological theories of aging page 189-192.
-
-**** Advances in social science theories of aging page 301-304.
-
-**** Advances in theory based policy and interventions page 401-406.
-
-**** Advances in transdisciplinary theories of aging page 531-537.
+Här betonas vikten av att grunda sitt resonerande om ålderskillnader i en välformulerad teori "to identify which age-related processes bring about which age-related differences" [19]. 
