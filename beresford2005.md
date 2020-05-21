@@ -6,7 +6,7 @@ email: joakim.frogren@med.lu.se
 date: 2020-05-20 17:32:56 +0200
 ...
 
-I artikeln _Developing the theoretical basis for service user/survivor-led research and equal involvement in research_ [#beresford2005]
+I artikeln _Developing the theoretical basis for service user/survivor-led research and equal involvement in research_ [@beresford2005]
 visar verkligen Beresford vilken aktivistsjäl han är. Artikeln går mycket ut på att diskutera olika sorts kunskap och erfarenhet och varför den kunskap som fås från _emancipatory and user controlled research_ är så mycket bättre jämfört med den som fås från traditionella approacher. Så här förklarar han den traditionella approachen:
 
 > A key principle of many standard textbooks is that research should be 'objective'. This is based on the view that things exist as meaningful entities independent of consciousness and experience and that rigorous scientifically based research can discover that objective truth and meaning (Crotty, 1998, p.5). Such an 'objectivist' approach to research highlights the need for and possibility of research which is neutral, unbiased and distanced from its subject. The unbiased value-free position of the researcher is a central tenet of such research. By claiming to eliminate the subjectivity of the researcher, the credibility of the research and its findings are maximised. Research can therefore be replicated by other researchers in similar situations and always offer the same results. Research which does not follow these rules and which is not based on this value set tends to be seen as inferior, providing results which are less valid and reliable. [6] [@beresford2005]
