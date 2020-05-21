@@ -125,3 +125,6 @@ Här nämns också kultur som en dimension. Inom olika kulturer kan synen på å
 ## Conclusion
 
 Här betonas vikten av att grunda sitt resonerande om ålderskillnader i en välformulerad teori "to identify which age-related processes bring about which age-related differences" [19]. 
+
+
+## Referenser
