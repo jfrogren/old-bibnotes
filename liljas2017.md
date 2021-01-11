@@ -1,0 +1,11 @@
+# Notes on Liljas et al. (2017) - Strategies to improve engagement of ‘hard to reach’older people in research on health promotion: a systematic review
+
+Här handlar det visserligen om deltagande som subjekt i mer sedvanliga forskningsstudier i form av health promotion-interventioner (och inte aktivt deltagande), men studien kan ändå vara relevant eftersom det kan finnas kopplingar mellan viljan att vara med i denna sorts vetenskapliga studier och den typ av studie som vi åsyftar. Vilka strategier bör då användas och vad är det för faktorer som påverkar viljan att delta? Arttikelförfattarna har gjort en systematic review och alltså granskat en rad artiklar inom området för att sammanställa resultatet och så här skriver de:
+
+> Facilitators for engaging the oldest old included gaining family support and having flexible sessions. Facilitators for BME [older people from black andminority ethnic groups] groups included building trust through known professionals/community leaders, targeting personal interests, and addressing ethnic and cultural characteristics. Among older people in deprived areas, facilitators for engagement included encouragement by peers and providing refreshments. Across all groups, barriers for engagement were deteriorating health, having other priorities and lack of transport/inaccessibility. Feeling too tired and lacking support from family members were additional barriers for the oldest old. Similarly, feeling too tired and too old to participate in research on health promotion were reported by BME groups. Barriers for BME groups included lack of motivation and self-confidence, and cultural and language differences. Barriers identified in deprived areas included use of written recruitment materials. Strategies to successfully engage with the oldest old included home visits and professionals securing consent if needed. Strategies to engage older people from BME groups included developing community connections and organising social group sessions. Strategies to engage with older people in deprived areas included flexibility in timing and location of interventions.
+
+Dock beskriver författarna att forskningen...
+
+> has been mainly descriptive and there was no high quality evidence on the effectiveness of different approaches.
+
+vilket bör ses som en begränsning i deras studie.
