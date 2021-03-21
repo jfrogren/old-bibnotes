@@ -1,10 +1,10 @@
 # Notes on Steinfeld, E., Danford, G. S., & Danford, G. (1999): Enabling environments: measuring the impact of environment on disability and rehabilitation
 
 
-** Review
+## Review
 Målet med boken: Developing a theoretical foundation for accessibility.
 
-** Definitions:
+## Definitions:
 - Disability is viewed as an inability or limitation in performing a task and has a locus in the individual.
 - Handicap, or the positive and easier to measure term "participation", is an outcome of the interaction between the person and the sociophysical environment. It has a locus in the environment. A disability is viewed as the functional limitation caused by an impairment, whereas lack of participation is caused by the response of a culture to disability. For example, prejudice toward hiring people with disabilities restricts participation in the labor force; a walking limitation does not inherently have such an impact.
 - The ability of the person, defined by level of independence in a functional task, has improved through environmental intervention.
