@@ -37,8 +37,6 @@ Epistemic relational equality and inequality = the question of who gets to contr
 and/or shared social understandings that may be sought, canvassed, pooled, or otherwise
 genuinely engaged with in any given practical context
 
-
-
 > equality is best understood as fundamentally relational rather than distributive.
 Vad betyder detta i praktiken?
 

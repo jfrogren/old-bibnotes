@@ -1,14 +1,14 @@
-# Notes on Corrado, A. M., Benjamin-Thomas, T. E., McGrath, C., Hand, C., & Laliberte Rudman, D. (2020) - Participatory action research with older adults: a critical interpretive synthesis
+# Notes on Corrado et al. (2020) - Participatory action research with older adults: a critical interpretive synthesis
 
 En mycket bra genomgång av forskning inom området. Även om den fokuserar på PAR så tar den upp mycket kloka saker som även gäller public involvement av det inte lika radikala slaget.
 
 > In this review, PAR is used as an umbrella term encompassing research approaches, such as, community-based participatory research, action research, and appreciative inquiry, which embody goals of engaging community members as co-researchers to guide personal and social change (Cargo & Mercer, 2008; Minkler, 2010).
 
-Syftar de metoder vi använder till att "embody goals of engaging community members as co-researchers to guide personal and social change"? Jag vet inte om det är så riktigt. Får en känsla av att det i denna forskning är ett större fokus på "community" såväl som på "social change".j
+Syftar de metoder vi använder till att "embody goals of engaging community members as co-researchers to guide personal and social change"? Jag vet inte om det är så riktigt. Får en känsla av att det i denna forskning är ett större fokus på "community" såväl som på "social change".
 
 #### Objective
 
-> The purpose of this CIS [critical interpretive synthesis] was to critically evaluate the useof PAR with older adults. The key guiding question was: How are older adults meaningfully involved within each phase of the PAR process and what does their involvement entail? The central aim of a CIS is to critically engage with the data on a subject to describe the current way a topic, or in this case a research approach, is being addressed, to critically consider the strengths and limitations of current approaches, and to mark out ways forward in improving a body of research (Dixon-Woods et al., 2006). Given this focus, a CIS, as opposed to a systematic review, was selected. [e414]
+> The purpose of this CIS [critical interpretive synthesis] was to critically evaluate the use of PAR with older adults. The key guiding question was: How are older adults meaningfully involved within each phase of the PAR process and what does their involvement entail? The central aim of a CIS is to critically engage with the data on a subject to describe the current way a topic, or in this case a research approach, is being addressed, to critically consider the strengths and limitations of current approaches, and to mark out ways forward in improving a body of research (Dixon-Woods et al., 2006). Given this focus, a CIS, as opposed to a systematic review, was selected. [e414]
 
 #### Metoden
 
