@@ -1,10 +1,12 @@
 # Notes on Kasperowski, D., & Brounéus, F. (2016) - The Swedish mass experiments — a way of encouraging scientific citizenship?
 
+Läste denna artikel 210328 i samband med formulerandet av en etikansökan för studie III.
+
 Här sägs klart och tydligt att, när det gäller de massexperiment som V&A arrangerat:
 
 > The aim is to stimulate scientific literacy and an interest in science while generating scientific output. [p. 1]
 
-Det med "scientific literacy" är alltså något som vi i en utvärdering bör ha ett vissf fokus på. Men går det verkligen att undersöka genom en för- och efterenkät av det slag vi har tagit fram?
+Det med "scientific literacy" är alltså något som vi i en utvärdering bör ha ett visst fokus på. Men går det verkligen att undersöka genom en för- och efterenkät av det slag vi har tagit fram?
 
 Vidare skriver de att:
 
@@ -16,10 +18,10 @@ Det är det som de föeställer sig att massexperimenten inom ramen för Forskar
 
 Även om målen med massexperimenten är vidare än så, nämligen:
 
-> - To give students an opportunity to participate in real research, introducing them to the scientific method and the systematic work of researchers, stimulating an interest in research. <br>
-> – To help researchers obtain large amounts of data while engaging in dialogue with the participating students and teachers. <br>
-> – To provide teachers with material and methods based upon state-of-the-art research to integrate into the curriculum. <br>
-> – To assist science event organisers in attracting media attention, reaching potential visitors and stimulating public understanding of science.
+> * To give students an opportunity to participate in real research, introducing them to the scientific method and the systematic work of researchers, stimulating an interest in research. <br>
+> * To help researchers obtain large amounts of data while engaging in dialogue with the participating students and teachers. <br>
+> * To provide teachers with material and methods based upon state-of-the-art research to integrate into the curriculum. <br>
+> * To assist science event organisers in attracting media attention, reaching potential visitors and stimulating public understanding of science.
 
 Det verkar ändå av artikeln att döma att fokus ligger just på scientific citizenship och i vilken utsträckning deltagandet kan sägas öda ett sådant. De avslutande raderna lyder nämligen:
 
@@ -31,8 +33,8 @@ Dock nämns också de aktivistiska dragen i denna forskning, men tyvärr utan at
 
 Detta gör ju inte vi men jag vidhåller att vi genom vårt promotande av Housing Enabler som en konceptuell förståelse av tillgänglighet ändå bedriver en form av politik i det att vi vill påverka hur tillgänglighet bör definieras samt framhålla att det är en central aspekt när det gäller boendet.
 
-mmer till kvaliteten på den data som samlas in argumenterar artikelförfattarna så här:
+När det kommer till kvaliteten på den data som samlas in argumenterar artikelförfattarna så här:
 
 > A fundamental aspect of the mass experiments is the quality of the data generated in the experiments. To participate in and contribute to real research, it is necessary for the students to provide the researchers with high quality data. The Swedish mass experiment relies on detailed instructions, carefully developed by the researcher in close collaboration with communication experts at VA. The opportunity for classes to engage in direct dialogue with the researcher via social media further reduces the risk for misunderstandings, as questions and ambiguities can be straightened out without time delay. Throughout the experiment, engaged teachers play a crucial role in explaining and contextualising the experiment for the students in addition to functioning as supervisors during the data collection phase of the experiment. An encouraging indication of the quality of the data is that so far three of the mass experiments have been published in well-renowned peer // reviewed journals [Randall, 2010; Persson Waye et al., 2015; Marklinder and Eriksson, 2015]. [p. 5-6]
 
-Det är, tror jag, huvuddragen i artikeln och det sätt som det argumenteras där.
+Det är, tror jag, huvuddragen i artikeln och det sätt som det argumenteras i artikeln.
