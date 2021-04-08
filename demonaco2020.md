@@ -1,0 +1,10 @@
+# Notes on Demonaco, H., Oliveira, P., Torrance, A., Von Hippel, C., & Von Hippel, E. (2020) - When patients become innovators
+
+Ett bokkapitel som jag läste efter att ha sett en väldigt ögonöppnande [föreläsning]() av Erich von Hippel där han redogör för hur användare många gånger är de stora innovatörerna, och inte de vi vanligt betraktar som innovatörer nämligen de som gör något till en kommersiell produkt. Jag tog även upp detta bokkapitel och denna föreläsning i ett mejl som jag skickade till HJ och SH den 8 april 2021. Så här skrev jag då:
+
+> Hej igen,
+ 
+> Ledsen för sent svar. Tack för tankeväckande återkoppling! Max Weber har jag dålig koll på och det där med epistemisk kontroll låter spännande också. Ditt resonemang Sara gav mig lust att läsa på lite mer kring dessa saker., och ja, Håkan, du får gärna läsa och ge återkoppling på kappan när jag kommit lite längre med den.
+ 
+> Med tanke på att du Sara tar upp EU:s innovationspolicy i ditt manus, skulle jag vilja tipsa er om att lyssna på Erich von Hippels lektion The Paradigm Shift from Producer to User Innovation. Han har även varit med och skrivit en artikel om användarinnovation kopplat till medicinteknik (se bifogad PDF). Tesen han driver - på skulle jag säga ett övertygande sätt - är att många innovationer tillkommer av ’users’ själva som stöter på patrull och försöker lösa något vardagligt problem. Det är ofta där skisser och prototyper skapas som sedan blir till mer färdiga produkter och tjänster antingen av andra användare, eller de kan vidareutvecklas av entreprenörer som ser en affärsmöjlighet. Poängen är alltså en stor del av innovationskraften finns utan bland vanligt folk, när gemene mani kanske snarare har bilden av att det är såna som Bill Gates, Elon Musk och liknande entreprenörer som är de betydande innovatörerna. Det är, tycker jag, en övertygande men rätt okänd bild av vad innovation är som han ger. Det betonar också varför jag tycker att det är viktigt att inte glömma bort design och problemlösning när man pratar om varför vi uppmanas och historiskt har uppmanats att ta med ’users’ i forskning.
+ 
