@@ -19,4 +19,9 @@ Vi kan i ett enda svep eller med ett mycket kort tidsintervall pendla mellan hel
 
 Alltså, konsten som en fristad där vi tillåts vara oss själva, en plats dit vi tillåts komma med våra barnsliga frågor, en plats som får oss att tro att det sanna verkligen existerar.
 
+Jag tar det igen:
+
+> Kunsten er et frirum, et sted, vi kan være os selv fuldstændigt. Med alle vores spørgsmål og udfordringer møder kunsten os som et barn, der får os til at tro, det sande findes et sted. [s. 191]
+
+
 Vackert formulerat, tycker jag.
