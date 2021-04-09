@@ -24,4 +24,12 @@ Jag tar det igen:
 > Kunsten er et frirum, et sted, vi kan være os selv fuldstændigt. Med alle vores spørgsmål og udfordringer møder kunsten os som et barn, der får os til at tro, det sande findes et sted. [s. 191]
 
 
-Vackert formulerat, tycker jag.
+Vackert formulerat, tycker jag. 
+
+Det kan också jämföras med Genets ord om vari skönheten och storheten med Giacomettis konst består:
+
+> Il n'est pas à la beauté d'autre origine que la blessure, singulière, différente pour chacun, cachée ou visible, que tout homme garde en soi, qu'il préserve et où il se retire quand il veut quitter le monde pour une solitude temporaire mais profonde. Il y a donc loin de cet art à ce qu'on nomme le misérabilisme. L'art de Giacometti me semble vouloir découvrir cette blessure secrète de tout être et même de toute chose, afin qu'elle les illumine.
+
+https://archive.fo/7XoQp
+
+Enligt Genet finns det alltså en strävan eller ambition i Giacomettis konst att "vouloir découvrir cette blessure secrète de tout être et même de toute chose, afin qu'elle les illumine". Här tycker jag mig se en liknelse med Martensens konstsyn i det att umgänget eller konfrontationen med ett för oss betydande konstverk handlar om att verket till att börja med inte dömer oss utan tar emot vårt naiva, frågande jag med en öppen famn samtidigt som verket genom sin blotta existens eller kanske snarare i kombination med vår perceptiva förmåga får oss att se oss själva eller tro oss se oss själva mer sant och mer naket, att verket väcker en slags känslomässig tro att vi genom det ser världen lite sannare. Nåt sånt.
