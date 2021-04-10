@@ -17,10 +17,9 @@ Så här tänker jag mig läsordningen:
 * [Dagsedlar](https://archive.fo/qaxnz) (1954)
 * [Tusen år hos Gud](https://archive.fo/2jNVf) (1954)
 
+"Det var så varmt att man nästan kunde ha rostat kaffe på järnvägsrälsen." är den oförglömliga mening som inleder Dagermans författarskap. Jag kommer att tänka på hur Duras påbörjar sin debut [@duras2011, s. 3]: "Maud ouvrit la fenêtre et la rumeur de la vallée emplit la chambre."
 
-"Det var så varmt att man hade kunnat rosta kaffebönor på rälsen." är den oförglömliga mening som inleder Dagermans författarskap. Jag kommer att tänka på hur Duras påbörjar sin debut [@duras2011, s. 3]: "Maud ouvrit la fenêtre et la rumeur de la vallée _emplit_ la chambre."
-
-I Dagermans fall är det hettan som känns inpå bara kroppen som är den ton som slås an medan det i Duras fall är ljudet från omvärlden som ger sig tillkänna. 
+I Dagermans fall är det hettan som känns inpå bara kroppen som är den ton som slås an, medan det i Duras fall är ljudet från omvärlden som ger sig tillkänna. 
 
 
 
