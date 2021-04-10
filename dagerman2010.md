@@ -19,7 +19,9 @@ Så här tänker jag mig läsordningen:
 
 "Det var så varmt att man nästan kunde ha rostat kaffe på järnvägsrälsen." är den oförglömliga mening som inleder Dagermans författarskap. Jag kommer att tänka på hur Duras påbörjar sin debut [@duras2011, s. 3]: "Maud ouvrit la fenêtre et la rumeur de la vallée emplit la chambre."
 
-I Dagermans fall är det hettan som känns inpå bara kroppen som är den ton som slås an, medan det i Duras fall är ljudet från omvärlden som ger sig tillkänna. 
+I Dagermans fall är det hettan som känns inpå bara kroppen som är den ton som slås an, medan det i Duras fall är ljudet från omvärlden som ger sig tillkänna. Men det är inte bara hettan som är påtaglig i Dagermans roman utan rädslan finns där hela tiden som en slag nerv som förbinder karaktärerna. Stundtals övergår den i verkligt hotfulla situationer som under korta sekvenser inger panik hos karaktärerna men strax därefter lyckas de komma något sånär till sans. Men oron och rädslan släpper aldrig helt sitt greppet om dem utan finns där latent.
 
+Ormen blir här ett uttryck eller en symbol för något som man anar är ännu värre.. men vad, vad bottnar all denna rädsla i och är den befogad?  
 
+Vad är personerna rädda för egentligen? Är det att uteslutas ur gemenskapen?
 
