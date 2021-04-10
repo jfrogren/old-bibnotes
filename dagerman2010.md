@@ -4,7 +4,7 @@ Tänker idag den 10 april 2021 att jag ska börja ta mig an Dagermans författar
 
 Så här tänker jag mig läsordningen:
 
-* [Ormen](https://archive.fo/Gct1C) (1945)
+* [**Ormen**](https://archive.fo/Gct1C) (1945)
 * [De dömdas ö](https://archive.fo/GWpXX) (1946)
 * [Tysk höst](https://archive.fo/B8yjn) (1947)
 * [Nattens lekar](https://archive.fo/kQvZz) (1947)
