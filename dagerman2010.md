@@ -12,7 +12,7 @@ Så här tänker jag mig läsordningen:
 * [Bränt barn](https://archive.fo/zrL9h) (1948)
 * [Judasdramer](https://archive.fo/Z5Z6e)(1949)
 * [Bröllopsbesvär](https://archive.fo/EkAFi) (1949)
-* [Blekplatsen]() (Översättning av Vesaas roman) (1950)
+* [Blekplatsen](https://archive.fo/hVXCy) (Översättning av Vesaas roman) (1950)
 * [Den yttersta dagen](https://archive.fo/NZvmN) (1952)
 * [Dagsedlar](https://archive.fo/qaxnz) (1954)
 * [Tusen år hos Gud](https://archive.fo/2jNVf) (1954)
