@@ -1,6 +1,6 @@
 # Notes on Vallquist, G. (2008) - Texter i urval
 
-Hittade boken på Emmaüs i Lund idag (13 mars 2021) för 34 kr. Boken är indelad i tre delar med olika teman och inledande förord av någon utvald person. 
+Hittade boken på Emmaüs i Lund idag (13 april 2021) för 34 kr. Boken är indelad i tre delar med olika teman och inledande förord av någon utvald person. 
 
 ## I. Den handskrivna sanningen
 
