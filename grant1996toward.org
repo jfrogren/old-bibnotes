@@ -1,0 +1,4 @@
+#+TITLE: Toward a knowledge-based theory of the firm
+#+ROAM_KEY: cite:grant1996toward
+
+Den här artikeln har vissa kopplingar till [[file:lonnback2007forskningscirklar.org][Forskningscirklar: för kunskapsfördjupning och utvecklingsarbete]]

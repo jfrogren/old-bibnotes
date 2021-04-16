@@ -1,0 +1,2 @@
+#+TITLE: A survey of decision support system applications (1995--2001)
+#+ROAM_KEY: cite:eom2006survey

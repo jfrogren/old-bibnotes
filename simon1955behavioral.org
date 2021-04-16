@@ -1,0 +1,4 @@
+#+TITLE: Notes on A behavioral model of rational choice by Simon, H. A. (1955)
+#+ROAM_KEY: cite:simon2007behavioral
+
+[[file:../../roam/20210416165406-behaviourismen.org][Behaviourismen]] tolkas här som en form av [[file:../../roam/20210416161023-org_mode.org][Org Mode]]. Hur konstigt det än låter.
