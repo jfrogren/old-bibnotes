@@ -1,22 +1,18 @@
-* L{\"o}nnback, Eva Britt and {\"O}stberg, Francesca (2007): Forskningscirklar: f{\"o}r kunskapsf{\"o}rdjupning och utvecklingsarbete
-:PROPERTIES:
-:Custom_id: lonnback2007forskningscirklar
-:END:
-
-#text #article 
+#+TITLE: Forskningscirklar: för kunskapsfördjupning och utvecklingsarbete
+#+ROAM_KEY: cite:lonnback2007forskningscirklar
 
 > Lönnback, E.B, Östberg, F. (2008). Forskningscirklar - för kunskapsfördjupning och utvecklingsarbete.
 
-## Review
+Rapporten riktar sig främst till "arbetsledare och personal inom verksamheter som möter medborgare/elever/brukare/klienter i sin verksamhet" (s. 3) (= t.ex. lärare, socionomer, psykologer och beteendevetare) och syftar till att "ge exempel på olika sätt att arbeta med kunskapsfördjupning, egenutvärdering och uppföljningsarbete" (s. 3).
 
-Rapporten riktar sig främst till "arbetsledare och personal inom verksamheter som möter medborgare/elever/brukare/klienter i sin verksamhet" (s. 3) (= t.ex. lärare, socionomer, psykologer och beteendevetare) och syftar till att "ge exempel på olika sätt att arbeta med kunskapsfördjupning, egenutvärdering och uppföljningsarbete" (s. 3).             
-    Syftet är att: "ge exempel på och entusiasmera till olika sätt att arbeta med kunskapsfördjupning, egenutvärdering, uppföljningsarbete och utvecklingsarbete med forskning och erfarenhetsbaserad kunskap som grund" (s. 5).
-    Rapporten kändes inte helt vetenskaplig och det är den ju inte heller, men jag tyckte den gav mig en bra introduktion till forskningscirkel som begrepp. Intressant att se att metoden är så knuten till verksamhetsutveckling, men det har säkert sin naturliga förklaring och går säkert att spåra till att den har sina rötter i fackliga organisationer, där syftet varit "empowerment" och att medvetandegöra arbetarklassen om sin situation och försöka ge dem verktygen att själva vara med och förbättra den (och därigenom stärka demokratin). I vårt fall var ju syftet inte utveckligen av en organisation eller verksamhet i första hand utan att försöka ringa in ett problem och hur man kan hitta konstruktiva vägar framåt för att ta sig an det problemet. Problemet i fråga är att tillgängligheten i flerfamiljshus inte matchar befolkningens funktionsförmåga och att det i takt med att vi har en åldrande befolkning är ett växande problem eftersom alltfler åldras med kroniska sjukdomar som ofta innebär bostäder med bättre tillgånglighet. Hur kan vi försvara att vi använder metoden forskningscirkel här och inte någon annan modell? Vad var egentligen vårt huvudsakliga syfte med denna forskningscirkel?
+Syftet är att: "ge exempel på och entusiasmera till olika sätt att arbeta med kunskapsfördjupning, egenutvärdering, uppföljningsarbete och utvecklingsarbete med forskning och erfarenhetsbaserad kunskap som grund" (s. 5).
 
-## Notes
-Vad är forskningscirkel?....................................... [[201901111245]]
-Varför forskningscirklar?...................................... [[201901111232]]
-Erfarenhetsbaserad vs. vetenskaplig kunskap.................... [[201901111233]]
+Rapporten kändes inte helt vetenskaplig och det är den ju inte heller, men jag tyckte den gav mig en bra introduktion till forskningscirkel som begrepp. Intressant att se att metoden är så knuten till verksamhetsutveckling, men det har säkert sin naturliga förklaring och går säkert att spåra till att den har sina rötter i fackliga organisationer, där syftet varit "empowerment" och att medvetandegöra arbetarklassen om sin situation och försöka ge dem verktygen att själva vara med och förbättra den (och därigenom stärka demokratin). I vårt fall var ju syftet inte utveckligen av en organisation eller verksamhet i första hand utan att försöka ringa in ett problem och hur man kan hitta konstruktiva vägar framåt för att ta sig an det problemet. Problemet i fråga är att tillgängligheten i flerfamiljshus inte matchar befolkningens funktionsförmåga och att det i takt med att vi har en åldrande befolkning är ett växande problem eftersom alltfler åldras med kroniska sjukdomar som ofta innebär bostäder med bättre tillgånglighet. Hur kan vi försvara att vi använder metoden forskningscirkel här och inte någon annan modell? Vad var egentligen vårt huvudsakliga syfte med denna forskningscirkel?
+
+** Note
+*** Vad är forskningscirkel?....................................... [[201901111245]]
+*** Varför forskningscirklar?...................................... [[201901111232]]
+*** Erfarenhetsbaserad vs. vetenskaplig kunskap.................... [[201901111233]]
 Forskningscirzkel vs. FoU-cirkel................................ [[201901111234]]
 Forskningscirkel vs. studiecirkel.............................. [[201901111235]]
 Evidensbaserat................................................. [[201901111236]]
@@ -36,3 +32,6 @@ id: [[201902042013]]
 date: Friday, 11 January, 2019 - 13:23
 tags: #phd, #art1, 
 ...
+
+* 201901111245
+[[file:20210417025649-fredag.org][fredag]]

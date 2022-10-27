@@ -49,7 +49,7 @@ Livet är absurt och så även döden, att därför betrakta sorgearbetet på et
 > Prästen sade ytterligare några ord. Och vi var båda djupt gripna då han uttalade: "Francoise de Beauvoir"; de orden väckte henne till liv igen, de inbegrep hela hennes liv från barndomen till giftermålet, till änkeståndet, till kistan; Francoise de Beauvoir : hon blev en betydande person, denna tillbakadragna kvinna som så sällan blivit omnämnd. [@beauvoir2000, s. 112]
  
 När en främmande präst uttalar namnet och med det med det lilla som ges försöker sammanfatta ett liv uppstår har jag märkt på begravningar en märklig känsla av att plötsligt se personen i ett nytt sken. Plötsligt förvandlas ett helt liv till några enkla rader uttalade av någon som aldrig kände den som omtalas.
- 
+
 > Det händer mycket sällan att kärleken, vänskapen, kamratskapet förmår besegra dödens ensamhet: inte ens när jag höll mammas hand i min var jag hos henne annat än i yttre måtto; jag ljög för henne. [@beauvoir2000, s. 117]
 
 Ack så sant. Vi når aldrig ända in och själen förblir obotligt ensam. Över det faktum vilar något oändligt sorgligt.
