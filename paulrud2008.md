@@ -60,7 +60,7 @@ Berättelserna "närmast hjärtat och de små andetagen" utgör här en metafor 
    - intertextualitet (öknen blommar - från jesaja)
 -->
 
-Jagpersonen refererar explicit till ett antal litterära verk men skriver sig också in i en genre av cancer-litteratur där Susan Sontag kanske är den 
+Jagpersonen refererar explicit till ett antal litterära verk men skriver sig också in i en genre av cancer-litteratur där Susan Sontag kanske är den mest kända. 
 <!--
 4. Vad handlar texten om? 
    - Informerad beskrivning  av texten med bruk av litteraturvetenskaplig terminologi, argumentation och sekundärlitteratur (Parafras 2.0). 
