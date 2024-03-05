@@ -1,6 +1,6 @@
 # Anteckningar om Carel, H. (2018) - Illness: the cry of the flesh
 
-sine qua non = 
+sine qua non = ?
 
 > embodiment is a background condition for subjectivity
 
