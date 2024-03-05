@@ -1,7 +1,5 @@
 # Anteckningar om Carel, H. (2018) - Illness: the cry of the flesh
 
-# Illness - the cry of the flash
-
 sine qua non = 
 
 > embodiment is a background condition for subjectivity
