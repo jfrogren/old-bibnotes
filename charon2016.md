@@ -1,4 +1,4 @@
-# Notes on Charon, R., Hermann, N., & Devlin, M. J. (2016) - Lose reading and creative writing in clinical education: teaching attention, representation, and affiliation
+# Anteckningar om Charon, R., Hermann, N., & Devlin, M. J. (2016) - Lose reading and creative writing in clinical education: teaching attention, representation, and affiliation
 
 
 Vid College of Physicians and Surgeons på Columbia University har de börjat undervisa i close reading and creative writing. Detta ligger till grund för ämnet *Narrative medicine* och bottnar i övertygelsen om att:
